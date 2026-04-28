@@ -1,5 +1,5 @@
 # Pose Coach
-> Last automated login update: 2026-04-27 18:10:39
+> Last automated login update: 2026-04-29 02:45:38
 
 Pose Coach is a real-time pose replication and guidance tool built with OpenCV and MediaPipe. It compares a live webcam feed against a reference pose image, highlights body and hand joint differences, and shows coaching feedback to help the user match the target posture more accurately.
 
